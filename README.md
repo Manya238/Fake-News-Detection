@@ -2,6 +2,8 @@
 
 ## Overview
 This project detects whether a news article is Fake or Real using Machine Learning and TF-IDF Vectorization.
+## Live Demo
+https://YOUR-STREAMLIT-APP-LINK.streamlit.app
 
 ## Features
 - Detects Fake and Real News
