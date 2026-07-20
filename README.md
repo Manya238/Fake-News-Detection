@@ -8,6 +8,10 @@ The model uses **TF-IDF Vectorization** for text feature extraction and **Logist
 ## Live Demo
 https://fake-news-detection-khjjspaxkxdfhc8scgo83s.streamlit.app/
 
+## Screenshot
+
+![Fake News Detection App](app_screenshot.png)
+
 ## Features
 - Fake and Real news classification
 - NLP based text processing
