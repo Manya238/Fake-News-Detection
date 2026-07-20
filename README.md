@@ -6,7 +6,7 @@ Fake News Detection is a Machine Learning based project that classifies news art
 The model uses **TF-IDF Vectorization** for text feature extraction and **Logistic Regression** as a classifier to predict the authenticity of news articles.
 
 ## Live Demo
-(Add your Streamlit app link here)
+https://fake-news-detection-khjjspaxkxdfhc8scgo83s.streamlit.app/
 
 ## Features
 - Fake and Real news classification
