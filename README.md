@@ -10,7 +10,7 @@ https://fake-news-detection-khjjspaxkxdfhc8scgo83s.streamlit.app/
 
 ## Screenshot
 
-![Fake News Detection App](app_screenshot.png)
+![Fake News Detection App](app_screenshot.png.png)
 
 ## Features
 - Fake and Real news classification
