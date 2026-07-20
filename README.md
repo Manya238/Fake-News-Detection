@@ -37,6 +37,7 @@ The model uses **TF-IDF Vectorization** for text feature extraction and **Logist
 ISOT Fake News Dataset
 
 ## Project Structure
+Fake-News-Detection/ │── data/ │── train.py │── webapp.py │── requirements.txt │── model.pkl │── vectorizer.pkl │── README.md
 ## How to Run Locally
 
 Install dependencies:
